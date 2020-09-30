@@ -7,3 +7,4 @@
 6) Sum of Digits.
 7) Reverse Number.
 8) Swap two numbers without using third variable.
+9) Binary Search
